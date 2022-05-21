@@ -6,7 +6,9 @@ be changed to work dor your stream go into the commands or
 
 the buttons each btton wherever you see the word "USERNAME" 
 
-you have to input your twitch name 
+you have to input your twitch name and make suresure that you
+
+have the File TAGS.CSV in your main Lioranboard folder
 
 Also Read The PDF it will tell you all the commands and what
 
