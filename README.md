@@ -1,14 +1,16 @@
-This is a LioranBoard 2 Buttons each of the the Set tags just
+This is an LioranBoard 2 Buttons command, each of the buttons
+
+will set the 1 of the following title tags or category, and
 
 need to be copied and pasted and only a few things need to
 
-be changed to work dor your stream go into the commands or
+be changed to work for your stream go into the commands or
 
-the buttons each btton wherever you see the word "USERNAME" 
+the buttons each button wherever you see the word "USERNAME" 
 
-you have to input your twitch name and make suresure that you
+you have to input your twitch name and make sure that you
 
-have the File TAGS.CSV in your main Lioranboard folder
+have the File TAGS.CSV in your main Lioranboard folder.
 
 Also Read The PDF it will tell you all the commands and what
 
